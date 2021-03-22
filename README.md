@@ -1,4 +1,4 @@
-This repository stores the scripts for single-cell RNA-sequencing and prognostic analysis in the upcoming *Nature Communications* paper [Melanoma subpopulations that rapidly escape MAPK pathway inhibition incur DNA damage and rely on stress signalling](<https://www.biorxiv.org/content/10.1101/2020.03.15.992982v1>). 
+This repository stores the scripts for single-cell RNA-sequencing and prognostic analysis in the *Nature Communications* paper [Melanoma subpopulations that rapidly escape MAPK pathway inhibition incur DNA damage and rely on stress signalling](<https://www.nature.com/articles/s41467-021-21549-x>). 
 
 The repository is organized as follows
 * *data*. Raw data for prognostic analysis, adapted from [OncoLnc](<https://github.com/OmnesRes/onco_lnc>). Raw data for single-cell RNA-sequencing are deposited in GEO (upload in progress).
